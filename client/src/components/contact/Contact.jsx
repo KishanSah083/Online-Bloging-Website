@@ -60,7 +60,7 @@ const Contact = () => {
                         
                     </Text>
                     <ContactIconsWrapper>
-                        <ContactIcon href="https://github.com/BS55Script/Blogging-website.git" target="_blank"><GitHub /></ContactIcon>
+                        <ContactIcon href="https://github.com/KishanSah083/Online-Bloging-Website" target="_blank"><GitHub /></ContactIcon>
                         <ContactIcon href="https://www.instagram.com" target="_blank"><Instagram /></ContactIcon>
                         <ContactIcon href="mailto:thevoicecanvas123@gmail.com?Subject=This is a subject" target="_blank"><Email /></ContactIcon>
                     </ContactIconsWrapper>
